@@ -1,5 +1,6 @@
 //return an array starting from a starting point till the end, with an additional parameter to control the serie
 //from eloquent JS
+// the sum f() returns the sum of each element in the array
   
 function range(start, end, step = 1) {
     let arr = [], r;
